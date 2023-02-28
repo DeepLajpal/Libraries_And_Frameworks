@@ -1,0 +1,23 @@
+*{
+  margin : 0;
+  padding: 0;
+  box-sizing: border-box
+}
+.App{
+  text-align: center;
+  margin-top: 10px;
+}
+.navbar{
+  margin-bottom: 20px;
+}
+.nav-item{
+  text-decoration: none;
+  font-family: sans-serif;
+  margin : 4px;
+  height: 200px;
+}
+
+.randomImg{
+  display: block;
+  margin: auto;
+}
