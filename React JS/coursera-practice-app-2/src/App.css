@@ -15,6 +15,10 @@
   font-family: sans-serif;
   margin : 4px;
   height: 200px;
+  color : rgb(72, 72, 72)
+}
+.nav-item:hover{
+  color:rgb(138, 132, 132)
 }
 
 .randomImg{
